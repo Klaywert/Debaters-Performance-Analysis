@@ -1,0 +1,874 @@
+[
+    {
+        "debate_id": 1,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 5
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 5
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "debate_id": 1,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 10
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 10
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 9
+            },
+            {
+                "position": 4,
+                "name": "Debater 1",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "debate_id": 2,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 5
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": 4
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "debate_id": 2,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 22
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 21
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 18
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": 16
+            },
+            {
+                "position": 4,
+                "name": "Debater 4",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "debate_id": 3,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 2
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 2
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 2
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "debate_id": 3,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 9
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 9
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 9
+            },
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 9
+            },
+            {
+                "position": 5,
+                "name": "Debater 2",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "debate_id": 5,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 5
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 3
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 3
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "debate_id": 5,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 1
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 1
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 1
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 1
+            },
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "debate_id": 6,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 7
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 4
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 4
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "debate_id": 6,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 10
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "debate_id": 7,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 3
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 3
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 3
+            },
+            {
+                "position": 4,
+                "name": "Debater 1",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "debate_id": 7,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "debate_id": 8,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 5
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "debate_id": 8,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 22
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 14
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "debate_id": 9,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 8
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 7
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 4
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "debate_id": 9,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 16
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 13
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 4
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": -1
+            }
+        ]
+    },
+    {
+        "debate_id": 10,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "debate_id": 10,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 8
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 7
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 4
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "debate_id": 11,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 5
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": 4
+            },
+            {
+                "position": 5,
+                "name": "Debater 4",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "debate_id": 11,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 6
+            },
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 6
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 5
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 5
+            },
+            {
+                "position": 5,
+                "name": "Debater 2",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "debate_id": 12,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 4
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 4
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 2
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "debate_id": 12,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 7
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 4
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 2
+            },
+            {
+                "position": 4,
+                "name": "Debater 1",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "debate_id": 13,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 3
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 3
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "debate_id": 13,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 9
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 7
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "debate_id": 14,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 7
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 6
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 2
+            },
+            {
+                "position": 4,
+                "name": "Debater 1",
+                "score": 1
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "debate_id": 14,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 9
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 8
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 5
+            },
+            {
+                "position": 4,
+                "name": "Debater 1",
+                "score": 3
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "debate_id": 16,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 3
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 1
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 0
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "debate_id": 16,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 3
+            },
+            {
+                "position": 1,
+                "name": "Debater 5",
+                "score": 3
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 2
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": -1
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": -1
+            }
+        ]
+    },
+    {
+        "debate_id": 17,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 6
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 5
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "debate_id": 17,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 10
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 8
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 7
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "debate_id": 18,
+        "model": "GPT 4o",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 7
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "debate_id": 18,
+        "model": "Gemini",
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 10
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 10
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 10
+            },
+            {
+                "position": 4,
+                "name": "Debater 4",
+                "score": 8
+            }
+        ]
+    }
+]
