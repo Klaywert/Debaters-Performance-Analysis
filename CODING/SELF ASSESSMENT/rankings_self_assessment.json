@@ -1,0 +1,482 @@
+[
+    {
+        "debate_id": 1,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 2.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 2,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 2.0
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 2.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 1.0
+            },
+            {
+                "position": 4,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 4,
+                "name": "Debater 3",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 3,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 4.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 5,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 2.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 6,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 3.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 7,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 3.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 8,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 1.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 9,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 2.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 10,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 1.0
+            },
+            {
+                "position": 1,
+                "name": "Debater 4",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 11,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 2.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 12,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 3.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 13,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 1.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 14,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 3.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 3",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 16,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 4.0
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": 1.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 1",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 3,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    },
+    {
+        "debate_id": 17,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": NaN
+            },
+            {
+                "position": 2,
+                "name": "Debater 2",
+                "score": NaN
+            },
+            {
+                "position": 3,
+                "name": "Debater 3",
+                "score": NaN
+            },
+            {
+                "position": 4,
+                "name": "Debater 4",
+                "score": NaN
+            },
+            {
+                "position": 5,
+                "name": "Debater 5",
+                "score": NaN
+            }
+        ]
+    },
+    {
+        "debate_id": 18,
+        "ranking": [
+            {
+                "position": 1,
+                "name": "Debater 1",
+                "score": 1.0
+            },
+            {
+                "position": 1,
+                "name": "Debater 2",
+                "score": 1.0
+            },
+            {
+                "position": 1,
+                "name": "Debater 3",
+                "score": 1.0
+            },
+            {
+                "position": 4,
+                "name": "Debater 4",
+                "score": 0.0
+            },
+            {
+                "position": 4,
+                "name": "Debater 5",
+                "score": 0.0
+            }
+        ]
+    }
+]
